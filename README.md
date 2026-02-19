@@ -1,5 +1,5 @@
 # NimClaw 🦞
-Ultra-Efficient AI Assistant in Nim
+Ultra-Efficient AI Assistant in Nim it is in Progress
 
 NimClaw is a complete, high-performance clone of PicoClaw.
 
